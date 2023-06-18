@@ -1,8 +1,11 @@
 import React from "react";
 
-function Footer(){
-    return <div>
-       <h2>&#169;Nermin Ćoralić</h2>
-    </div>
-};
+function Footer() {
+  return (
+    <footer>
+      <p>Copyright ⓒ Nermin Ćoralić</p>
+    </footer>
+  );
+}
+
 export default Footer;
