@@ -8,13 +8,12 @@
   }
   body {
     background: #eee;
-    padding: 0 16px;
   }
   
   header {
     background-color: #d8fc28;
     margin: auto -16px;
-    padding: 16px 32px;
+    padding: 16px 0px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
   
@@ -22,6 +21,7 @@
     color: #fff;
     font-family: "McLaren", cursive;
     font-weight: 200;
+    padding: 0px 1em;
   }
   
   footer {
@@ -69,7 +69,7 @@
   
   form {
     position: relative;
-    width: 480px;
+    width: 380px;
     margin: 30px auto 20px auto;
     background: #fff;
     padding: 15px;
@@ -100,4 +100,6 @@
     cursor: pointer;
     outline: none;
   }
+
+ 
   
